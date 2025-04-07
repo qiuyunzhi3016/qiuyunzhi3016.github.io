@@ -8,4 +8,4 @@
 - 授课时间：2023-2024学年第一学期，周一1-3, 周二3-5, 6-8节
 - 授课地点：下沙信息楼403
 - 参考教材：《Python基础教程（第3版）》Magnus Lie Hetland 著，袁国忠 译，2018年，人民邮电出版社
-- 课程网站：https://zhangjianzhang.github.io/programming_basics/
+- 课程网站：https://qiuyunzhi3016.github.io/
